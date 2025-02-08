@@ -1,0 +1,1 @@
+# A-mathematical-framework-of-physics-informed-neural-networks-for-the-solution-of-parabolic-PDEs.
